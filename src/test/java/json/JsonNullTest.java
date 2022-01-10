@@ -2,9 +2,10 @@ package json;
 
 
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
+
 
 /**
  * Created by Andrii_Rodionov on 1/5/2017.
